@@ -22,6 +22,49 @@ body {
   text-align: center;
 }
 
+header {
+  text-align: center;
+}
+
+header span {
+  font-size: 60px;
+  font-size: 2em;
+  color: purple;
+}
+
+.ball {
+  position: relative;
+}
+
+.ball img {
+  width: 100%;
+  max-width: 40em;
+}
+
+.answer {
+  color: #222;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 38%;
+  left: 45%;
+  width: 11%;
+  font-size: 80%;
+}
+
+#questionbutton {
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  font-size: 1.75em;
+  color: #f8f8f8;
+  background-color: red;
+  border-radius: 5px;
+  border: none;
+  padding: 0.5em, 1em;
+  width: 50%;
+  max-width: 15em;
+  margin-top: 1em;
+}
 
 
 
