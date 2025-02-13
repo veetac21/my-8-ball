@@ -52,7 +52,7 @@ header span {
   font-size: 80%;
 }
 
-#questionbutton {
+#questionButton {
   font-family: "Montserrat", sans-serif;
   font-size: 25px;
   font-size: 1.75em;
@@ -66,10 +66,8 @@ header span {
   margin-top: 1em;
 }
 
-
-
 footer {
   text-transform: uppercase;
   font-size: 12px;
-  font-size: .75em;
+  font-size: 0.75em;
 }
